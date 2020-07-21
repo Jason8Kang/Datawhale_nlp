@@ -1,4 +1,5 @@
 # Datawhale_nlp
-learning with team,the forum is :https://tianchi.aliyun.com/competition/entrance/531810/forum
-I submit my homework
+learning with team, there is some homework, so I submit it.
+the forum is :https://tianchi.aliyun.com/competition/entrance/531810/forum
+
 
